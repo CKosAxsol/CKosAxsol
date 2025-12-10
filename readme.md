@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./media/banner-2.png" width="100%" alt="SPS Developer Banner">
+  <img src="./media/banner.png" width="100%" alt="SPS Developer Banner">
 </p>
 
 # 👋 Hi there  
