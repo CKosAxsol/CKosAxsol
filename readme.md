@@ -1,38 +1,37 @@
 <p align="center">
-  <img src="./media/banner-3.png" width="100%" alt="SPS Developer Banner">
+  <img src="./media/banner.png" width="100%" alt="SPS Developer Banner">
 </p>
 
-# 👋 Hi there  
-*I automate things so that other things don’t explode.*
+# 🐧 Hi there
+*I automate things so that other things do not explode.*
 
-## 🤵 Wer ich bin
-- SPS-Entwickler mit mehr Berufserfahrung als mir lieb ist  
-- Baue IoT-Systeme, die tun, was sie sollen (und manchmal sogar mehr)  
-- Fütter’ die Cloud mit Daten, damit Dashboards glücklich bleiben
-
----
-
-## 👉 Was ich so mache
-- **Sammle Daten** von allem, was blinkt, piepst oder seriell kommuniziert  
-- **Automatisiere** alles, was sich nicht aktiv dagegen wehrt  
-- **Entwickle Bibliotheken**, damit andere weniger fluchen müssen  
-- **CI/CD?** Natürlich. Auch für SPS.  
-  (Ja, man *kann* das automatisieren. Ja, ich tue es nicht freiwillig.)
+## 🤨 Who I Am
+- PLC developer with more professional experience than I care to admit
+- I build IoT systems that do what they are supposed to do, and sometimes even more
+- I feed the cloud with data so dashboards can stay happy
 
 ---
 
-## 🧰 toolbox
-- SPS, IoT, Edge-Steuerungen  
-- Cloud-Kommunikation (für Dashboards mit emotionaler Stabilität)  
-- Git, CI/CD-Pipelines, Versionsmagie  
+## 👨‍💻 What I Do
+- **Collect data** from anything that blinks, beeps, or communicates over serial
+- **Automate** everything that does not actively fight back
+- **Build libraries** so other people have fewer reasons to swear
+- **CI/CD?** Of course. Even for PLCs.
+  (Yes, you *can* automate that. No, I do not do it voluntarily.)
 
 ---
 
-## 📬 Kontakt  
-... nicht erreichbar, schreib mir ein Ticket
+## 🧰 Toolbox
+- PLCs, IoT, edge controllers
+- Cloud communication (for dashboards with emotional stability)
+- Git, CI/CD pipelines, versioning magic
 
+---
 
-## 💻 coding tools
+## 📬 Contact
+... unavailable, send me a ticket
+
+## Coding Tools
 <!-- Programming & Tools -->
 ![CoDeSys](https://img.shields.io/badge/CoDeSys-0A84FF?style=for-the-badge&logo=codesys&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0A84FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -50,4 +49,3 @@
 
 <!-- DevOps / Deployment -->
 ![Docker](https://img.shields.io/badge/Docker-0A84FF?style=for-the-badge&logo=docker&logoColor=white)
-
